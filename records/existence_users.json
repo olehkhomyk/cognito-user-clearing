@@ -1,0 +1,25 @@
+{
+  "Users": [
+    {
+      "Username": "userId",
+      "Attributes": [
+        {
+          "Name": "sub",
+          "Value": "404eb870-c211-4138-85a6-ff744485cfa1"
+        },
+        {
+          "Name": "email_verified",
+          "Value": "true"
+        },
+        {
+          "Name": "email",
+          "Value": "test@gmail.com"
+        }
+      ],
+      "UserCreateDate": "2020-06-06T05:55:12.195000+04:00",
+      "UserLastModifiedDate": "2020-06-06T05:56:00.397000+04:00",
+      "Enabled": true,
+      "UserStatus": "CONFIRMED"
+    }
+  ]
+}
